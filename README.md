@@ -1,4 +1,6 @@
-### Used : <a href = "https://docs.soliditylang.org/en/develop/">Solidity</a> | <a href = "https://hardhat.org/">Hardhat</a> | <a href = "https://www.javascript.com/" >Javascript</a> | <a href = "https://moralis.io/">Moralis</a> 
+# Decentralized autonomous organization for voting
+
+Used : <a href = "https://docs.soliditylang.org/en/develop/">Solidity</a> | <a href = "https://hardhat.org/">Hardhat</a> | <a href = "https://www.javascript.com/" >Javascript</a> | <a href = "https://moralis.io/">Moralis</a> 
 
 ## Screenshots
 
