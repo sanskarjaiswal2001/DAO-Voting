@@ -5,6 +5,10 @@
 ### Homescreen
 
  <img height = "75%" width = "75%" src = "https://user-images.githubusercontent.com/63549695/174145963-e3529afc-1817-4193-a769-3dd245a901db.png"/>
+ 
+### Create a proposal
+ 
+ <img height = "75%" width = "75%" src = "https://user-images.githubusercontent.com/63549695/174148707-0406f2d6-967a-4755-a297-4854b2ad120a.png"/>
 
 ### Proposal details page 
  
