@@ -191,7 +191,7 @@ const Proposal = () => {
           />
         </div>
      </div>
-     <div className="voting"></div>
+     {/* <div className="voting"></div> */}
     </>
   );
 };
